@@ -63,22 +63,22 @@
 # print(letters[-3:])
 
 # ---- dictionaries ----
-student = {
-    'name': 'Annika',
-    'year': 1,
-    'major': 'Astrophysics'
-}
+# student = {
+#     'name': 'Annika',
+#     'year': 1,
+#     'major': 'Astrophysics'
+# }
 
-print(student['year'])
+# print(student['year'])
 
-student['year'] = 5
-print(student['year'])
+# student['year'] = 5
+# print(student['year'])
 
-student['school'] = 'UC Berkeley'
-print(student['school'])
+# student['school'] = 'UC Berkeley'
+# print(student['school'])
 
-del student['school']
-print(student)
+# del student['school']
+# print(student)
 
 # print(student.keys())
 # print(student.values())
